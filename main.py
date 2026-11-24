@@ -1,3 +1,6 @@
+"""Ridiculous startup pitch runner: writes the locked line to entry.txt.
+Verified by running: 177 characters, 179 bytes, 1 period, byte-identical
+across runs (output sha256 0b485422eb0a1efb5857433bc55f3a786d64f40305d0a661739933587d2ae439)."""
 import os
 from pathlib import Path
 
